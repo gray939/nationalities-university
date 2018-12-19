@@ -65,25 +65,25 @@ textarea {
 	resize: none;
 }
 a {
-	font-family: "Î¢ÈíÑÅºÚ"; text-decoration: none;
+	font-family: "微软雅黑"; text-decoration: none;
 }
 h1 {
-	font-family: "Î¢ÈíÑÅºÚ";
+	font-family: "微软雅黑";
 }
 h2 {
-	font-family: "Î¢ÈíÑÅºÚ";
+	font-family: "微软雅黑";
 }
 h3 {
-	font-family: "Î¢ÈíÑÅºÚ";
+	font-family: "微软雅黑";
 }
 h4 {
-	font-family: "Î¢ÈíÑÅºÚ";
+	font-family: "微软雅黑";
 }
 h5 {
-	font-family: "Î¢ÈíÑÅºÚ";
+	font-family: "微软雅黑";
 }
 p {
-	font-family: "Î¢ÈíÑÅºÚ";
+	font-family: "微软雅黑";
 }
 a:hover {
 	cursor: pointer;
@@ -149,10 +149,10 @@ a:hover {
 	color: rgb(204, 51, 0); font-weight: bold;
 }
 .bottom li a {
-	color: rgb(255, 255, 255); font-family: "Î¢ÈíÑÅºÚ"; font-size: 17px; text-decoration: none;
+	color: rgb(255, 255, 255); font-family: "微软雅黑"; font-size: 17px; text-decoration: none;
 }
 .bottom span {
-	color: rgb(255, 255, 255); font-family: "Î¢ÈíÑÅºÚ"; font-size: 17px; text-decoration: none;
+	color: rgb(255, 255, 255); font-family: "微软雅黑"; font-size: 17px; text-decoration: none;
 }
 #nav_bot .nav_sub {
 	background: url("../images/sub_nabBg.png") no-repeat; padding: 0px 6px; width: 800px; height: 136px; right: 20px; bottom: -136px; float: left; position: absolute;
@@ -161,7 +161,7 @@ a:hover {
 	width: 150px; height: 44px; text-align: center; line-height: 44px; margin-top: 8px; float: left;
 }
 #nav_bot .nav_sub dl dd a {
-	color: rgb(255, 255, 255); font-family: "Î¢ÈíÑÅºÚ"; font-size: 15px;
+	color: rgb(255, 255, 255); font-family: "微软雅黑"; font-size: 15px;
 }
 #nav_bot .nav_sub dl dd a:hover {
 	width: 150px; height: 44px; text-align: center; color: rgb(204, 51, 0); line-height: 44px; display: block;
@@ -197,7 +197,7 @@ a:hover {
 	left: 0px; width: 119px; height: 26px; text-align: center; bottom: 6px; line-height: 26px; position: absolute;
 }
 .picroll_pic h2 a {
-	color: rgb(255, 255, 255); font-family: "Î¢ÈíÑÅºÚ"; font-size: 14px;
+	color: rgb(255, 255, 255); font-family: "微软雅黑"; font-size: 14px;
 }
 .picroll_pic h2 a:hover {
 	color: rgb(204, 51, 0);
@@ -221,7 +221,7 @@ a:hover {
 	cursor: default;
 }
 .footer_m h3 {
-	color: rgb(255, 255, 255); line-height: 20px; font-family: "Î¢ÈíÑÅºÚ"; font-size: 11px; margin-top: 5px;
+	color: rgb(255, 255, 255); line-height: 20px; font-family: "微软雅黑"; font-size: 11px; margin-top: 5px;
 }
 .footer_r {
 	margin: 30px 5px 0px 0px; float: right;
@@ -275,7 +275,7 @@ a:hover {
 	margin: 0px 7px; float: left;
 }
 .content_nav_r li a {
-	height: 50px; text-align: center; color: rgb(102, 102, 102); line-height: 50px; font-family: "Î¢ÈíÑÅºÚ"; font-size: 16px; font-weight: bold; margin-left: 16px; display: block;
+	height: 50px; text-align: center; color: rgb(102, 102, 102); line-height: 50px; font-family: "微软雅黑"; font-size: 16px; font-weight: bold; margin-left: 16px; display: block;
 }
 .content_nav_r .color_red {
 	height: 42px; color: rgb(204, 51, 0); line-height: 42px; font-size: 16px; font-weight: bold; border-top-color: rgb(204, 51, 0); border-top-width: 4px; border-top-style: solid; display: block;
@@ -293,7 +293,7 @@ a:hover {
 	color: rgb(204, 51, 0);
 }
 .txt_box a {
-	color: rgb(255, 255, 255); line-height: 40px; font-family: "Î¢ÈíÑÅºÚ"; font-size: 16px; font-weight: bold;
+	color: rgb(255, 255, 255); line-height: 40px; font-family: "微软雅黑"; font-size: 16px; font-weight: bold;
 }
 .txt_box a:hover {
 	color: rgb(255, 255, 255);
@@ -868,65 +868,4 @@ a:hover {
 }
 #page-wrap {
 	margin: 0px auto; width: 840px;
-}
-.tabs {
-	list-style: none; line-height: 65px; overflow: hidden; padding-left: 1px;
-}
-.tabs li {
-	display: inline;
-}
-.tabs li a {
-	margin: 0px 0px 0px -1px; padding: 4px 8px; border: 1px solid rgb(204, 204, 204); border-image: none; color: black; float: left; display: block;
-}
-.tabs li a.current {
-	background: white; top: 2px; border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none; position: relative; z-index: 2;
-}
-.box-wrapper {
-	background: white; padding: 0px; border: 1px solid rgb(204, 204, 204); border-image: none; height: 320px; position: relative;
-}
-.content-box {
-	left: 3px; top: 3px; width: 840px; height: 320px; overflow: hidden; position: absolute;
-}
-.current {
-	z-index: 100;
-}
-.col-one {
-	top: 320px; width: 42%; float: left; position: relative;
-}
-.col-two {
-	top: 350px; width: 49%; float: left; position: relative;
-}
-.col-three {
-	top: 350px; width: 3%; float: left; position: relative;
-}
-.col-one {
-	margin-right: 3%;
-}
-.col-two {
-	margin-right: 3%;
-}
-.floatingAd .ad {
-	background: none; display: none; position: absolute; z-index: 100;
-}
-.floatingAd a {
-	color: rgb(0, 0, 0); text-decoration: none; display: inline-block;
-}
-.floatingAd a img {
-	border: 0px currentColor; border-image: none; width: 100px; height: 130px;
-}
-.floatingAd .close {
-	display: none;
-}
-.floatingAd .opacity {
-	top: 0px; width: 100%; height: 25px; position: absolute; opacity: 0.2; background-color: rgb(0, 0, 0);
-}
-.opacity1 {
-	opacity: 0.9;
-}
-.floatingAd .text {
-	top: 0px; width: 100%; height: 25px; color: rgb(0, 0, 0); line-height: 25px; position: absolute;
-}
-
-.floatingAd .text .title {
-	font-size: 12px; margin-left: 5px; float: left; position: relative;
 }

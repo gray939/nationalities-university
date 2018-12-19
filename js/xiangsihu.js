@@ -19,7 +19,6 @@ window.onload = function(){
 	var timeSS = setInterval(ss,10);
 }
 		var k = 0;
-
 		var aLi = $("#pic ul li").length;
 		
 		$("#next").click(function(){   //下一张
@@ -32,10 +31,8 @@ window.onload = function(){
 			minu();
 			})
 		
-		
 		function jnu(){  
 		 
-		        
 			k++;
 			if(k>aLi-1){
 			k=0;
@@ -68,7 +65,6 @@ window.onload = function(){
 			$("#pic ul li").eq(k).animate({opacity:1},800);
 				
 		};
-		
 		
 		
 		timer = setInterval("jnu()",4000);   
