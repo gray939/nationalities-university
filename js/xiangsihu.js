@@ -48,8 +48,7 @@ window.onload = function(){
 			$(".bannerColl_img").css("display","none");
 			$(".bannerColl_img").eq(k).css("display","block");
 		};
-		
-		// 
+
 		function minu(){   
 			k--;
 			if(k>aLi){
@@ -94,5 +93,3 @@ window.onload = function(){
 			   $("#cb_tzgg_rB").css("display","block");
 			   $(this).css("background","#e3a616").siblings().css("background","#FC6")
 			})
-        
-		

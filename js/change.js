@@ -365,8 +365,6 @@ function ImageChangeNews(uid, width, height, interval, duration, btitle, bsummar
              }
              //设置当前图片编号
              _this.currentIndex = _this.nextIndex;
-             
-             
              document.getElementById(uid + "url").href = _this.urls[_this.nextIndex];
 			
 			 btitle = true;
@@ -401,7 +399,6 @@ function ImageChangeNews(uid, width, height, interval, duration, btitle, bsummar
         {
         }
     }
-    
     //等比例设置图片
     _this.constrainimg = function(imgobj, imagevar, imgdiv)
     {

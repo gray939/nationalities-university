@@ -5,7 +5,6 @@
 	clear: both; display: table; content: "";
 }
 .clearfix {
-	
 }
 ul {
 	list-style: none;
@@ -767,7 +766,6 @@ a:hover {
 .content_l_cont h2 {
 	padding: 16px 0px 0px 24px; color: rgb(255, 255, 255); font-family: "微软雅黑"; font-size: 22px;
 }
-.
 .cb_tzgg_l h2 {
 	padding-top: 36px;
 }
