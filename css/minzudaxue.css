@@ -3,7 +3,7 @@ body {
 	margin: 0px;
 	padding: 0px;
 	line-height: 20px;
-	font-family: "Î¢ÈíÑÅºÚ", "ËÎÌå","ºÚÌå",Verdana, Arial, Helvetica, sans-serif;
+	font-family: "微软雅黑",Verdana, Arial, Helvetica, sans-serif;
 	font-size: 12px;
 }
 
@@ -437,7 +437,7 @@ ul.nl li {
 .nav li {
 	height: 57px;
 	line-height: 57px;
-	font-family: "Î¢ÈíÑÅºÚ";
+	font-family: "微软雅黑";
 	font-size: 15px;
 	float: left;
 	min-width: 83px;
@@ -1260,29 +1260,29 @@ ul.nl li {
 	padding: 1px 7px; border-left-color: rgb(204, 204, 204); border-left-width: 1px; border-left-style: solid;
 }
 a.imagechangenews_pnode:link {
-	color: rgb(255, 255, 255); line-height: 15px; font-family: ËÎÌå; font-size: 15px; text-decoration: none; background-color: rgb(102, 102, 102);
+	color: rgb(255, 255, 255); line-height: 15px; font-size: 15px; text-decoration: none; background-color: rgb(102, 102, 102);
 }
 a.imagechangenews_pnode:visited {
-	color: rgb(255, 255, 255); line-height: 15px; font-family: ËÎÌå; font-size: 15px; text-decoration: none; background-color: rgb(102, 102, 102);
+	color: rgb(255, 255, 255); line-height: 15px; font-size: 15px; text-decoration: none; background-color: rgb(102, 102, 102);
 }
 a.imagechangenews_pnode:active {
-	color: rgb(255, 255, 255); line-height: 15px; font-family: ËÎÌå; font-size: 15px; text-decoration: none; background-color: rgb(153, 153, 153);
+	color: rgb(255, 255, 255); line-height: 15px;font-size: 15px; text-decoration: none; background-color: rgb(153, 153, 153);
 }
 a.imagechangenews_pnode:hover {
-	color: rgb(255, 255, 255); line-height: 15px; font-family: ËÎÌå; font-size: 15px; text-decoration: none; background-color: rgb(153, 153, 153);
+	color: rgb(255, 255, 255); line-height: 15px;font-size: 15px; text-decoration: none; background-color: rgb(153, 153, 153);
 }
 .imagechangenews_fnode {
 	padding: 1px 7px; border-left-color: rgb(204, 204, 204); border-left-width: 1px; border-left-style: solid;
 }
 a.imagechangenews_fnode:link {
-	color: rgb(255, 255, 255); line-height: 15px; font-family: ËÎÌå; font-size: 15px; text-decoration: none; background-color: rgb(255, 0, 0);
+	color: rgb(255, 255, 255); line-height: 15px;font-size: 15px; text-decoration: none; background-color: rgb(255, 0, 0);
 }
 a.imagechangenews_fnode:visited {
-	color: rgb(255, 255, 255); line-height: 15px; font-family: ËÎÌå; font-size: 15px; text-decoration: none; background-color: rgb(255, 0, 0);
+	color: rgb(255, 255, 255); line-height: 15px; font-size: 15px; text-decoration: none; background-color: rgb(255, 0, 0);
 }
 a.imagechangenews_fnode:active {
-	color: rgb(255, 255, 255); line-height: 15px; font-family: ËÎÌå; font-size: 15px; text-decoration: none; background-color: rgb(255, 0, 0);
+	color: rgb(255, 255, 255); line-height: 15px; font-size: 15px; text-decoration: none; background-color: rgb(255, 0, 0);
 }
 a.imagechangenews_fnode:hover {
-	color: rgb(255, 255, 255); line-height: 15px; font-family: ËÎÌå; font-size: 15px; text-decoration: none; background-color: rgb(255, 0, 0);
+	color: rgb(255, 255, 255); line-height: 15px; font-size: 15px; text-decoration: none; background-color: rgb(255, 0, 0);
 }

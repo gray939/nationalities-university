@@ -138,7 +138,7 @@
                         'position':'relative',
 						'margin-left':'0px'
                     });
-					//.wrap()包裹页面已经定义的.ck-slide-wrapper以及子元素
+					
                     slidewrap.wrap('<div class="ck-slide-dir"></div>');
                     slide.show();
                     break;
@@ -278,7 +278,7 @@ function getVersion()
 
 function ImageChangeNews(uid, width, height, interval, duration, btitle, bsummary, zoomtype, zoomout)
 {
-    var _this = this; //把this保存下来，以后用_this代替this，这样就不会被this弄晕了
+    var _this = this; 
 
     _this.imgs = new Array(); //图片组
     _this.urls = new Array(); //链接组

@@ -49,6 +49,7 @@ window.onload = function(){
 			$(".bannerColl_img").eq(k).css("display","block");
 		};
 		
+		// 
 		function minu(){   
 			k--;
 			if(k>aLi){
@@ -65,7 +66,6 @@ window.onload = function(){
 			$("#pic ul li").eq(k).animate({opacity:1},800);
 				
 		};
-		
 		
 		timer = setInterval("jnu()",4000);   
 		
